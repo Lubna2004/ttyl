@@ -8,7 +8,7 @@ public class StudentMarksDisplay {
         int[] marks = {85, 90, 76, 88, 92};
         
         // Displaying the student names and their marks
-        System.out.println("Student Marks:");
+        System.out.println("Student Name: Lubna");
         System.out.println("--------------");
         
         for (int i = 0; i < students.length; i++) {
